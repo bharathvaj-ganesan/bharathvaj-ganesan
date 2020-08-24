@@ -6,5 +6,5 @@ I'm a passionate, self-taught fullstack application developer who loves working 
 
 You can find me on 
  - [Twitter](https://twitter.com/bharathvaj95) 
- - [Medium](https://medium.com/@bharath95)
+ - [Medium](https://medium.com/@bharathvaj_ganesan)
  - [Stackoverflow](https://stackoverflow.com/users/6906028/bharathvaj-ganesan)
