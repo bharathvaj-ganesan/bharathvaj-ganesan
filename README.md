@@ -12,5 +12,5 @@ Currently, Building UI Design System @ [Chargebee](https://www.chargebee.com/)
 You can find me on
 
 - [Twitter](https://twitter.com/bharathvaj_g)
-- [Medium](https://medium.com/@bharathvaj_ganesan)
+- [Medium](https://bharathvaj-ganesan.medium.com/)
 - [Stackoverflow](https://stackoverflow.com/users/6906028/bharathvaj-ganesan)
