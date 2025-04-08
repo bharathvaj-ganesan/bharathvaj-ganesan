@@ -1,6 +1,8 @@
-### Hi 👋, I'm Bharath
+### Hey 👋, I’m Bharath.
 
-I'm a passionate, self-taught Software Engineer from [India](https://en.wikipedia.org/wiki/India) who loves working mainly on the JavaScript/Typescript stack. In my leisure time, I love to explore new technologies and contribute to open source projects. Currently, I'm a Principal Engineer working on AI Platform and Artifical Intelligence (Gen AI) @ [Chargebee](https://www.chargebee.com/). Previous worked on UI Platform, Checkout, PLG Teams @Chargebee
+I'm a software engineer and engineering leader with 6+ years of experience building and scaling products across startups and enterprise.
+
+Currently leading AI initiatives at [Chargebee](https://www.chargebee.com/), I’ve worked on AI Agents, Copilot, and internal productivity tools. I’m big on engineering craftsmanship, improving developer experience, and sharing what I learn with the community here. 
 
 Blog - [bharathvaj.com](https://bharathvaj.com/)
 
